@@ -1,0 +1,12 @@
+C:\Users\victo\source\repos\ProjectLP3\Solution\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\victo\source\repos\ProjectLP3\Solution\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\victo\source\repos\ProjectLP3\Solution\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\victo\source\repos\ProjectLP3\Solution\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\ProjectLP3\Solution\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\ProjectLP3\Solution\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\ProjectLP3\Solution\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\victo\source\repos\ProjectLP3\Solution\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\ProjectLP3\Solution\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\victo\source\repos\ProjectLP3\Solution\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\victo\source\repos\ProjectLP3\Solution\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\victo\source\repos\ProjectLP3\Solution\BLL\obj\Debug\net6.0\ref\BLL.dll
